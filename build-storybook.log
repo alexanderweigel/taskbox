@@ -1,0 +1,5 @@
+info @storybook/react v6.3.10
+info 
+info => Cleaning outputDir: /var/folders/9q/llvy4dyj26n_2kj4v713hxy40000gp/T/chromatic--1231-JjBD26UIcNQK
+ERR! Failed to load static files, no such directory: /Users/aweigel/web/storybook/taskbox/public
+ERR! Make sure this directory exists, or omit the -s (--static-dir) option.
