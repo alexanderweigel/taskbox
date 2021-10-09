@@ -18,7 +18,7 @@ export default function Task ({ task: {id, title, state }, onArchiveTask, onPinT
             value={title}
             readOnly={true}
             placeholder="Input title"
-            stale={{background: 'red'}}/>
+            stale={{background: 'green'}}/>
         </div>
         
         <div className="actions" onClick={event => event.stopPropagation()}>
